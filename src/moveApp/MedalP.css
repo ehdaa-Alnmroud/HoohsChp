@@ -1,0 +1,26 @@
+.medel svg {
+  height: 50px;
+  fill: #00696c;
+}
+.medel {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  margin: 12px;
+}
+.msd {
+  padding: 60px 50px;
+}
+.msd p {
+  line-height: 1.5em;
+  font-size: 0.9em;
+  text-align: left;
+  color: #3f4245;
+  padding-top: 8px;
+  line-height: 1.5em;
+}
+.cardd {
+  padding-top: 30px !important;
+  border: none !important;
+}

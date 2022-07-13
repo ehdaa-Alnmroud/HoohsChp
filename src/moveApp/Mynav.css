@@ -1,0 +1,10 @@
+.logo {
+  height: 60px;
+}
+
+.meauto {
+  margin-left: 13px !important;
+}
+.meauto:hover{
+    color: #007B7C !important;
+}
