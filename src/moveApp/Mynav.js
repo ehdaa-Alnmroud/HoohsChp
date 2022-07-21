@@ -1,5 +1,6 @@
 import React from "react";
 import { Nav, Navbar, Container } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 import "./Mynav.css";
 
@@ -13,7 +14,7 @@ function Mynav() {
           </Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link className="meauto" href="#home">
-              FREE MOVIES
+              <Link to="/">FREE MOVIES</Link>
             </Nav.Link>
             <Nav.Link className="meauto" href="#features">
               Features
